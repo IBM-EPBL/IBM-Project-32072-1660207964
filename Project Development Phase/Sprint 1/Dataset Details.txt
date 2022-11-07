@@ -1,6 +1,6 @@
 IBM Project Name: Real-Time Communication System Powered by AI for Specially Abled
-TEAM ID         : PNT2022TMID12266
-TEAM Lead       : Bharathi Muthu M
+TEAM ID         : PNT2022TMID18759
+TEAM Lead       : Manoj Kumar K
 
 Dataset Details
 
